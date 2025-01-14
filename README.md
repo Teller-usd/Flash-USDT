@@ -28,7 +28,7 @@ Flash-USDT offers users an easy way to access **10,000 USDT** instantly. The web
 3. **Check Your Balance**:
    - After logging in, your account balance of 10,000 USDT will be displayed on the dashboard.
    
-   ![Screenshot of Account Balance](Balance.png)
+   ![Screenshot of Account Balance](Balancexx.png)
 
 4. **Make a Withdrawal**:
    - Go to the **Withdraw** section.
