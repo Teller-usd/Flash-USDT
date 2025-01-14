@@ -23,18 +23,18 @@ Flash-USDT offers users an easy way to access **10,000 USDT** instantly. The web
 2. **Sign Up**:
    - Register a new account to receive an instant 10,000 USDT balance.
    
-   ![Screenshot of Sign-Up Page](image/Sign_Up.png.png)
+   ![Screenshot of Sign-Up Page](Sign_Up.png.png)
 
 3. **Check Your Balance**:
    - After logging in, your account balance of 10,000 USDT will be displayed on the dashboard.
    
-   ![Screenshot of Account Balance](image/Balance.png)
+   ![Screenshot of Account Balance](Balance.png)
 
 4. **Make a Withdrawal**:
    - Go to the **Withdraw** section.
    - Enter the amount you wish to withdraw (a 10% fee will apply).
    
-   ![Screenshot of Withdrawal Page](image/send.png)
+   ![Screenshot of Withdrawal Page](send.png)
 
 5. **Complete the Withdrawal**:
    - Confirm the withdrawal and pay the fee. The amount will be processed to your TRC20 wallet.
