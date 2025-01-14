@@ -23,7 +23,7 @@ Flash-USDT offers users an easy way to access **10,000 USDT** instantly. The web
 2. **Sign Up**:
    - Register a new account to receive an instant 10,000 USDT balance.
    
-   ![Screenshot of Sign-Up Page](Sign_Up.png.png)
+   ![Screenshot of Sign-Up Page](Sign_Up.png)
 
 3. **Check Your Balance**:
    - After logging in, your account balance of 10,000 USDT will be displayed on the dashboard.
